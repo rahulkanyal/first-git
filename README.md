@@ -15,4 +15,4 @@ The things that I learned till now:-
 ******Extra tips***********
 *. To make a new branch use git checkout -b 'new-branch-name'
 *. To switch branch use git checkout 'new-branch-name'
-*. To delete a branch use git checkout -d 'new-branch-name'
+*. To delete a branch use git branch -d 'new-branch-name'
