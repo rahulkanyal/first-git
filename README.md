@@ -10,3 +10,9 @@ The things that I learned till now:-
 5. commit that i.e approve of the changes to that file by git commit -m "message about the changes goes here"
 6. connect yourself with the remote repository  git remote add "temp-local-name(origin preferred for original)" https://github.com/user_name/repo_name.git
 7. finally push all the files to the repo git push -u "temp-local-name" "name of branch==master"
+
+
+******Extra tips***********
+*. To make a new branch use git checkout -b 'new-branch-name'
+*. To switch branch use git checkout 'new-branch-name'
+*. To delete a branch use git checkout -d 'new-branch-name'
